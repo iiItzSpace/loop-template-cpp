@@ -12,3 +12,6 @@ cmake -B build
 cmake --build build
 ./build/loop_template_cpp
 ```
+
+## Code Style
+Formatted with `clang-format` using the Microsoft style (`.clang-format` included).
